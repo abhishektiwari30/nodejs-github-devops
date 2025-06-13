@@ -1,4 +1,4 @@
-# added status endpoint
+# added status endpoint check
 const express = require('express');
 const app = express();
 const port = 3000;
