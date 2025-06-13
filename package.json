@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-github-devops",
+  "version": "1.0.0",
+  "description": "Node.js app for DevOps GitHub training",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
